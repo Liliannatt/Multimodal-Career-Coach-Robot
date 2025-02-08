@@ -44,8 +44,8 @@ This project demonstrates a three-part system that provides a simulated intervie
    - **Web-based Platform**: Displays the generated transcripts, videos, emotion labels, and GPT-4o feedback.
    - **Text Files**: FER and SER modules save output (emotion labels, distributions, optional metadata) for post-processing and visualization.
 
-<img src="/image/figure1.png" alt="Interview Robot Workflow" width="600"/>
-<img src="/image/fugure2.png" alt="Interview Robot Workflow" width="600"/>
+<img src="images/figure1.png" alt="Interview Robot Workflow" width="600" />
+<img src="images/figure2.png" alt="Interview Robot Workflow" width="600" />
 
 ---
 
