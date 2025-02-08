@@ -228,7 +228,7 @@ def predict_audio_emotion(audio_path, model, feature_extractor, id2label, max_du
     return predicted_labels
 
 # Function for Speech to Text
-def speech_to_text(file_name='output.wav', subscription_key="0e2afde1930544d297072fd3fe1e5f40", region="swedencentral", output_file='output_text.txt'):
+def speech_to_text(file_name='output.wav', subscription_key="...", region="swedencentral", output_file='output_text.txt'):
     speech_config = speechsdk.SpeechConfig(subscription=subscription_key, region=region)
 
     audio_config = speechsdk.audio.AudioConfig(filename=file_name)
