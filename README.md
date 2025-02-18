@@ -1,4 +1,4 @@
-# Multimodal Interview FurhatRobot
+# Multimodal Career Coach Robot
 
 This project demonstrates a three-part system that provides a simulated interview experience using a **Furhat robot** as the primary interface. The system combines:
 
