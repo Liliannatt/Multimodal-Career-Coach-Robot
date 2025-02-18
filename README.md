@@ -49,6 +49,18 @@ This project demonstrates a three-part system that provides a simulated intervie
 
 ---
 
+## Human-Robot Interaction
+
+![Interaction flow](./image/111.png)
+
+---
+
+## Website layout
+
+![web flow](./image/222.png)
+
+---
+
 ## Technologies Used
 
 - **Furhat SDK** (Java/Kotlin)
