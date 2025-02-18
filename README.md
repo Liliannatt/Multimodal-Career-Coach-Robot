@@ -51,7 +51,7 @@ This project demonstrates a three-part system that provides a simulated intervie
 
 ## Human-Robot Interaction
 
-![Interaction flow](./image/111.jpg)
+![Interaction flow](./image/111.png)
 
 ---
 
